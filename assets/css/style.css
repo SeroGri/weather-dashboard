@@ -1,10 +1,11 @@
 * {
     font-family: 'Vollkorn', serif;
+    padding: 4px;
 }
 
 :root {
-    --primary: #FC0000;
-    --secondary: #000099; 
+    --primary: #ECD715;
+    --secondary: #15C8EC; 
     --tertiary: #000033;
     --white: #FFFFFF;
     --lb: #006666; 
